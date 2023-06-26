@@ -1,6 +1,6 @@
 import random
 
-comp = random.randint(1,100)
+comp = random.randint(1,1000)
 guess = int(input("Enter the number :"))
 attempt = 1
 
